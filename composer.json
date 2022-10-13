@@ -1,6 +1,6 @@
 {
-    "name": "spinen/laravel-quickbooks-client",
-    "description": "SPINEN's Laravel Client for QuickBooks.",
+    "name": "econjobmarket/laravel-quickbooks-client",
+    "description": "Fork of SPINEN's Laravel Client for QuickBooks.",
     "keywords": [
         "quickbooks",
         "client",
